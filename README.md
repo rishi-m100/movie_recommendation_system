@@ -1,5 +1,6 @@
-Basic movie recommendation Jupyter Notebook based on user ratings and similarity to specified movie.\ 
+Basic movie recommendation Jupyter Notebook based on user ratings and similarity to specified movie. 
 
+---
 
 Executable Jupyter Notebook here:
 
