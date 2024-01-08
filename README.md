@@ -1,3 +1,6 @@
+Basic movie recommendation Jupyter Notebook based on user ratings and similarity to specified movie. 
+
+
 Executable Jupyter Notebook here:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rishi-m100/recommendation_system/HEAD?labpath=rec_system2.ipynb
