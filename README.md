@@ -7,6 +7,7 @@ Executable Jupyter Notebook here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rishi-m100/recommendation_system/HEAD?labpath=rec_system2.ipynb
 )
 
+---
 
 (Proceed through to last cell and type in input field to get recommendations based on search query) 
 
